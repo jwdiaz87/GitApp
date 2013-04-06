@@ -8,5 +8,6 @@ namespace GitApp.Lib
 {
     public class MyObject
     {
+        public int Id { get; set; }
     }
 }
